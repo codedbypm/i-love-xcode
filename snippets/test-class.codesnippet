@@ -3,31 +3,38 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>tt</string>
+	<string>testclass</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>func testThat_&lt;#whenThis#&gt;_&lt;#thenThat#&gt;() {
-    // Arrange
-    &lt;#arrange#&gt;
+	<string>@testable 
+import &lt;#Tested#&gt;
+import XCTest
+
+class &lt;#Sut#&gt;Tests: XCTestCase {
+    var sut: &lt;#sut#&gt;!
     
-    // Act
-    &lt;#act#&gt;
-    
-    // Assert
-    &lt;#assert#&gt;
+    override func setUp() {
+        super.setUp()
+        sut = &lt;#initialize sut#&gt;
+    }
+
+    override func tearDown() {
+        sut = nil
+        super.tearDown()
+    }
 }
 </string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>CB5270B6-10B7-40CA-B8CB-CE7464810FE4</string>
+	<string>4C6EA404-E940-4AE3-9D29-D69601396875</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Creates a unit test method</string>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Test That</string>
+	<string>Test class</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

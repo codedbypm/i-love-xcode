@@ -3,31 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>tt</string>
+	<string>didSet</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>CodeExpression</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>func testThat_&lt;#whenThis#&gt;_&lt;#thenThat#&gt;() {
-    // Arrange
-    &lt;#arrange#&gt;
-    
-    // Act
-    &lt;#act#&gt;
-    
-    // Assert
-    &lt;#assert#&gt;
-}
-</string>
+	<string> {
+        didSet {
+            &lt;#code#&gt;
+        }
+    }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>CB5270B6-10B7-40CA-B8CB-CE7464810FE4</string>
+	<string>505890D3-3AF9-4837-9BBB-9F95D6D73CF0</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Creates a unit test method</string>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Test That</string>
+	<string>didSet </string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

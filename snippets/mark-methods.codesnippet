@@ -3,31 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>tt</string>
+	<string>markm</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>func testThat_&lt;#whenThis#&gt;_&lt;#thenThat#&gt;() {
-    // Arrange
-    &lt;#arrange#&gt;
-    
-    // Act
-    &lt;#act#&gt;
-    
-    // Assert
-    &lt;#assert#&gt;
-}
+	<string>    // MARK: - &lt;#access#&gt; methods
 </string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>CB5270B6-10B7-40CA-B8CB-CE7464810FE4</string>
+	<string>2BD95B80-247C-47FB-B631-0C33964832A6</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Creates a unit test method</string>
+	<string>Add a mark for methods</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Test That</string>
+	<string>Mark Methods</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

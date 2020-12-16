@@ -3,31 +3,29 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>tt</string>
+	<string>stack</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>func testThat_&lt;#whenThis#&gt;_&lt;#thenThat#&gt;() {
-    // Arrange
-    &lt;#arrange#&gt;
-    
-    // Act
-    &lt;#act#&gt;
-    
-    // Assert
-    &lt;#assert#&gt;
-}
+	<string>&lt;#modifier#&gt; lazy var &lt;#name#&gt;StackView: UIStackView = {
+        let stackView = UIStackView()
+stackView.addArrangedSubview(&lt;#firstSubview#&gt;)
+		stackView.axis = &lt;#axis#&gt;
+		stackView.distribution = &lt;#distribution#&gt;
+		stackView.alignment = &lt;#alignment#&gt;
+        return stackView
+    }()
 </string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>CB5270B6-10B7-40CA-B8CB-CE7464810FE4</string>
+	<string>166AD741-413C-4FDE-A085-2CD614DFEC40</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Creates a unit test method</string>
+	<string>StackView property</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Test That</string>
+	<string>StackView property</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

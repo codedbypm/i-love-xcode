@@ -3,38 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>testclass</string>
+	<string>extension</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>TopLevel</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@testable 
-import &lt;#Tested#&gt;
-import XCTest
+	<string>&lt;#modifier#&gt; extension &lt;#Type#&gt; {
 
-class &lt;#Sut#&gt;Tests: XCTestCase {
-    var sut: &lt;#sut#&gt;!
-    
-    override func setUp() {
-        super.setUp()
-        sut = &lt;#initialize sut#&gt;
-    }
-
-    override func tearDown() {
-        sut = nil
-        super.tearDown()
-    }
 }
 </string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>4C6EA404-E940-4AE3-9D29-D69601396875</string>
+	<string>034A3D98-DB11-4B6A-9EBE-9B7C16C6BEC1</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Test class</string>
+	<string>Extension</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
