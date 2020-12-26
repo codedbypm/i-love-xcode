@@ -1,3 +1,3 @@
 #!/bin/zsh
 
-cp ~/Library/Developer/Xcode/UserData/CodeSnippets/*.codesnippet snippets/
+rsync -zavh ~/Library/Developer/Xcode/UserData/CodeSnippets/*.codesnippet snippets/
