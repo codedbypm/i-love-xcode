@@ -11,14 +11,14 @@
 		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>    // MARK: - &lt;#access#&gt; properties
-</string>
+	<string>    // MARK: - Private properties
+	</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>B266F518-1349-4A61-A724-DAC0C1FECCF5</string>
+	<string>429FB006-52C0-47CB-B83F-20613CDD019D</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Mark Properties</string>
+	<string>Mark Properties - Private</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

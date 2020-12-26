@@ -10,7 +10,7 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>    // MARK: - Public methods
-</string>
+	</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8C0068ED-8F3A-4B15-9EB2-36B60880DCF4</string>
 	<key>IDECodeSnippetLanguage</key>
@@ -18,7 +18,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Add a mark for methods</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Mark - Public Methods</string>
+	<string>Mark Methods - Public</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
