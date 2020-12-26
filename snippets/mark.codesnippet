@@ -6,9 +6,9 @@
 	<string>mark</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>TopLevel</string>
-		<string>CodeBlock</string>
 		<string>ClassImplementation</string>
+		<string>CodeBlock</string>
+		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>// MARK: - &lt;#Section name#&gt;
@@ -20,7 +20,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Adds Mark: - delimited in code</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Mark</string>
+	<string>Mark - Generic</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
