@@ -9,16 +9,16 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>    // MARK: - &lt;#access#&gt; methods
+	<string>    // MARK: - Public methods
 </string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>2BD95B80-247C-47FB-B631-0C33964832A6</string>
+	<string>8C0068ED-8F3A-4B15-9EB2-36B60880DCF4</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>Add a mark for methods</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Mark - Internal Methods</string>
+	<string>Mark - Public Methods</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
