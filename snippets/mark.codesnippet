@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>markm</string>
+	<string>mark</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
+		<string>CodeBlock</string>
+		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>    // MARK: - Private methods
+	<string>// MARK: - &lt;#Section name#&gt;
 </string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>28A95C75-557A-40CE-8A3B-8AB6C16C6BD8</string>
+	<string>71B875AE-A97A-42F4-99F1-6BE8D14C25BB</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Add a mark for methods</string>
+	<string>Adds Mark: - delimited in code</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Mark Methods - Private</string>
+	<string>Mark - Generic</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
