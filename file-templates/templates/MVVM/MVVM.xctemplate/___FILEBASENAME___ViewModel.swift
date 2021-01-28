@@ -2,7 +2,7 @@
 
 import Foundation
 
-class ___VARIABLE_productName:identifier___ViewModel {
+final class ___VARIABLE_productName:identifier___ViewModel {
     
     // MARK: - Inputs
     

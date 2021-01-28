@@ -2,7 +2,7 @@
 
 import UIKit
 
-class ___VARIABLE_productName:identifier___ViewController: UIViewController {
+final class ___VARIABLE_productName:identifier___ViewController: UIViewController {
     
     // MARK: - Private properties
     
