@@ -3,31 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>mvvm-vm</string>
+	<string>cancellable</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>TopLevel</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>class &lt;#Type#&gt;ViewModel {
-
-    // MARK: - Inputs
-
-    // MARK: - Outputs
-
-    init() {
-
-    }
-}
-</string>
+	<string>private var cancellable: AnyCancellable?</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>4CD25A69-DBEB-406F-981C-114473E0A7D1</string>
+	<string>C395900B-468B-467E-A1C1-CF1B6E27E40B</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>MVVM - View Model</string>
+	<string>Cancellable</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

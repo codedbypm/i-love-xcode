@@ -3,34 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>mvvm-vm</string>
+	<string>stateobject</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>TopLevel</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>class &lt;#Type#&gt;ViewModel {
-
-    // MARK: - Inputs
-
-    // MARK: - Outputs
-
-    init() {
-
-    }
-}
-</string>
+	<string>@StateObject
+private var &lt;#name#&gt; = &lt;#class#&gt;()</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>4CD25A69-DBEB-406F-981C-114473E0A7D1</string>
+	<string>F90832AC-8242-42C9-BE91-49633F4F349F</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>MVVM - View Model</string>
+	<string>State Object Property Wrapper</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
