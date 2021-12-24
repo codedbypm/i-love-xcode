@@ -3,25 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>stateobject</string>
+	<string>env</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@StateObject
-private var &lt;#name#&gt; = &lt;#class#&gt;()</string>
+	<string>@Environment(&lt;#keypath#&gt;) var &lt;#name#&gt;
+</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>F90832AC-8242-42C9-BE91-49633F4F349F</string>
+	<string>E80F9540-9865-4AAF-ACDE-5CEE05908323</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string></string>
+	<string>Create a private property decorated with @Environment property wrapper</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>State Object Property Wrapper</string>
+	<string>Environment Property Wrapper</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>
